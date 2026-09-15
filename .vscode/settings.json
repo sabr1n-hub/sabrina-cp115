@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "CP115-Class-Repo"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
